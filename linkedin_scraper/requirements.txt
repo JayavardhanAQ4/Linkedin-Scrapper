@@ -1,0 +1,29 @@
+# Web Scraping & Automation
+selenium==4.10.0
+undetected-chromedriver==3.5.3
+beautifulsoup4==4.12.2
+
+# Data Handling
+pandas==2.2.2
+openpyxl==3.1.2
+
+# API Requests
+requests==2.31.0
+
+# Fuzzy Matching
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
+
+# Logging & Debugging
+loguru==0.7.2
+
+# AI-Based Summarization (Llama3.2)
+transformers==4.38.2
+torch==2.2.0
+sentencepiece==0.2.0
+
+# JSON Handling
+json5==0.9.14
+
+# Environment Variables (Optional)
+python-dotenv==1.0.1
